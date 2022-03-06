@@ -1,27 +1,27 @@
 [submodule "iluvu"]
-	path = iluvu
+	path = primary/iluvu
 	url = https://github.com/Limboid/iluvu.git
 [submodule "computatrum.io"]
-	path = computatrum.io
+	path = primary/computatrum.io
 	url = https://github.com/Limboid/computatrum.io.git
 [submodule "boid-net"]
-	path = boid-net
+	path = primary/boid-net
 	url = https://github.com/Limboid/boid-net.git
 [submodule "limboid-robot"]
-	path = limboid-robot
+	path = primary/limboid-robot
 	url = https://github.com/Limboid/limboid-robot.git
 [submodule "limboid-robot-services"]
-	path = limboid-robot-services
+	path = secondary/limboid-robot-services
 	url = https://github.com/Limboid/limboid-robot-services.git
 [submodule "limboid-llc"]
-	path = limboid-llc
+	path = primary/limboid-llc
 	url = https://github.com/Limboid/limboid-llc.git
 [submodule "limboid.github.io"]
-	path = limboid.github.io
+	path = company/limboid.github.io
 	url = https://github.com/Limboid/limboid.github.io.git
-[submodule "limboid-humanitarian-program"]
-	path = limboid-humanitarian-program
-	url = https://github.com/Limboid/limboid-humanitarian-program.git
 [submodule "astro-boid-program"]
-	path = astro-boid-program
+	path = secondary/astro-boid-program
 	url = https://github.com/Limboid/astro-boid-program.git
+[submodule "secondary/limboid-humanitarian-program"]
+	path = secondary/limboid-humanitarian-program
+	url = https://github.com/Limboid/limboid-humanitarian-program
