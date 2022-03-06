@@ -22,9 +22,6 @@
 [submodule "limboid-humanitarian-program"]
 	path = limboid-humanitarian-program
 	url = https://github.com/Limboid/limboid-humanitarian-program.git
-[submodule "astro-boid"]
-	path = astro-boid
-	url = https://github.com/Limboid/astro-boid.git
 [submodule "astro-boid-program"]
 	path = astro-boid-program
 	url = https://github.com/Limboid/astro-boid-program.git
